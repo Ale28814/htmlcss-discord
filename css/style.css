@@ -1,0 +1,41 @@
+/*utilities*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 100%;
+    height: 80px;
+    background: #255ee9;
+}
+
+.brand{
+    float: left;
+    margin-top: 25px;
+    margin-left: 360px;
+}
+
+.nav-bar{
+    float: left;
+    margin-top: 30px;
+    margin-left: 230px;
+    font-size: 16px;
+}
+
+.nav-bar li{
+    list-style: none;
+    display: inline;
+    color: #ffffff;
+    margin-right: 40px;
+}
+
+.btn-log{
+    display: inline;
+    float: right;
+    padding: 10px;
+    border-radius: 20px;
+}
