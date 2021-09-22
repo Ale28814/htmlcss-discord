@@ -7,6 +7,16 @@
     font-family: sans-serif;
 }
 
+.btn-log{
+    float: right;
+    padding: 10px;
+    border-radius: 20px;
+    margin-right: 380px;
+    margin-top: 20px;
+}
+
+/*header*/
+
 .container{
     width: 100%;
     height: 80px;
@@ -33,9 +43,20 @@
     margin-right: 40px;
 }
 
-.btn-log{
-    display: inline;
+.log-in btn-log{
     float: right;
-    padding: 10px;
-    border-radius: 20px;
+    margin-right: 380px;
+    margin-top: 20px;
+}
+
+/*banner*/
+
+.banner{
+    position: relative;
+    height: 545px;
+}
+
+.banner img{
+    position: absolute;
+    width: 100%;
 }
